@@ -52,8 +52,11 @@ The implementation expands on the base math with:
 The system iterates over frames of the mixed audio, computes both **energy and MFCC losses**, updates the estimate using a **gradient-descent rule**, and refines it via a lightweight spectral filter.
 
 ---
+## OUTPUT
+<img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/f32cfd08-7b82-4ca7-9071-0b284f3dcf63" />
 
 ## Derivation layout 
 
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/428f0ff7-1906-4b00-a579-0977dfe68aba" />
+
