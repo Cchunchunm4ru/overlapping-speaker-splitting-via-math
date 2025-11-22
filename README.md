@@ -53,10 +53,12 @@ The system iterates over frames of the mixed audio, computes both **energy and M
 
 ---
 ## OUTPUT
-<img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/f32cfd08-7b82-4ca7-9071-0b284f3dcf63" />
+<img width="1200" height="400" alt="Figure_1" src="https://github.com/user-attachments/assets/3a14ae96-32c6-4487-b70b-5500b82745ca" />
+
 
 ## Derivation layout 
 
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/428f0ff7-1906-4b00-a579-0977dfe68aba" />
+
 
